@@ -76,7 +76,7 @@ import static org.threeten.bp.temporal.ChronoField.MONTH_OF_YEAR;
  * On pre-Android 4.3 devices NARROW style texts are emulated
  * by returning only first character of FULL style text.
  */
-final class AndroidDateTimeTextProvider extends DateTimeTextProvider {
+final public class AndroidDateTimeTextProvider extends DateTimeTextProvider {
 
     /** Comparator. */
     private static final Comparator<Entry<String, Long>> COMPARATOR = new Comparator<Entry<String, Long>>() {
