@@ -1,0 +1,2 @@
+include ':androiddatetimetextprovider'
+rootProject.name='AndroidDateTimeTextProvider'
