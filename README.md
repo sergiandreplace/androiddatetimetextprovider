@@ -1,4 +1,4 @@
-# Androiddatetimetextprovider
+# AndroidDateTimeTextProvider
 
 A solution for day and month formatting for languages with standalone configuration for ThreeTenBP for Android
 
