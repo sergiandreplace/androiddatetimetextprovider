@@ -58,7 +58,7 @@ allprojects {
 ``` 
 implementation "com.gabrielittner.threetenbp:lazythreetenbp:0.7.0"
 implementation "org.threeten:threetenbp:1.4.0:no-tzdb"
-implementation 'com.github.sergiandreplace:androiddatetimetextprovider:1.0'
+implementation 'com.github.sergiandreplace:androiddatetimetextprovider:1.0.0'
 ```
 
 3. And now you can use both LazyThreeTenBp and AndroidDateTimeTextProvider in your init part (tipically in you Application class):
